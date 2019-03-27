@@ -1,1 +1,2 @@
-# imic-27032019
+# imic-1803
+IMIC's Java-core class
