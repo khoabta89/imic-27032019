@@ -4,7 +4,8 @@ import static java.lang.StrictMath.sqrt;
 
 public class Bai03
 {
-    public static boolean kiemTraSoNguyenTo (int n) {
+    public static boolean kiemTraSoNguyenTo (int n)
+    {
         if (n < 2)
         {
             return false;
